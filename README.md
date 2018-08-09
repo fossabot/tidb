@@ -56,6 +56,7 @@ Read the [Quick Start](https://pingcap.com/doc-QUICKSTART).
 ## Architecture
 
 ![architecture](./docs/architecture.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgregwebs%2Ftidb.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgregwebs%2Ftidb?ref=badge_shield)
 
 ## Contributing
 Contributions are welcomed and greatly appreciated. See [CONTRIBUTING.md](CONTRIBUTING.md)
@@ -71,6 +72,9 @@ for details on submitting patches and the contribution workflow.
 
 ## License
 TiDB is under the Apache 2.0 license. See the [LICENSE](./LICENSE) file for details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgregwebs%2Ftidb.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgregwebs%2Ftidb?ref=badge_large)
 
 ## Acknowledgments
 - Thanks [cznic](https://github.com/cznic) for providing some great open source tools.
